@@ -7,5 +7,5 @@ import { StateContextProvider } from './Context/index.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <StateContextProvider>
     <App />
-  </StateContextProvider>,
+  </StateContextProvider>
 )
